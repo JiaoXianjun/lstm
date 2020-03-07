@@ -14,9 +14,7 @@ directory:
 
             sfd
             s
-            f
-            das
-            fd
+fd
             as
             fd
             as
